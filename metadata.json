@@ -1,0 +1,6 @@
+{
+  "name": "Construction Portal",
+  "description": "A professional attendance and payroll system that uses a comprehensive worker dataset as its primary data source. The system processes worker records (ID, name, base salary, daily attendance, overtime) to automatically calculate total working days, absences, and final payable salaries. It features real-time updates, ensuring that any modification to attendance or financial values triggers immediate recalculation of payroll summaries and performance metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
